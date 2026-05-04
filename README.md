@@ -7,4 +7,4 @@ URLs:
 - https://jordansnyder.github.io/trainer-bot-policies/privacy.html
 - https://jordansnyder.github.io/trainer-bot-policies/terms.html
 
-Edit the HTML files and replace `{{BUSINESS_NAME}}` and `{{CONTACT_EMAIL}}` before submitting to TCR.
+Edit the HTML files and replace `Jordan Snyder` and `jordan.snyder@gmail.com` before submitting to TCR.
